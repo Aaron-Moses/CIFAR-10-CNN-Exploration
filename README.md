@@ -29,6 +29,8 @@ This project is a leap from my Data Science 3000 course into the real world. It'
 ## Wanna Run This?
 Check out the notebooks in `notebooks/`. I've put instructions in there to get everything up and running. It's not rocket science, I promise!
 
+I couldn't upload the advanced model due to it's size.
+
 ## Onwards and Upwards!
 This project is just a start. I'm already thinking about tackling more complex models and maybe diving into other datasets. 
 
